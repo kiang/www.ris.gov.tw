@@ -31,9 +31,9 @@ for ($y = 97; $y <= $theYear; $y++) {
             $reportFile = $reportPath . '/' . $m . '.ods';
             if (!file_exists($reportFile)) {
                 $ym = str_pad($y, 3, '0', STR_PAD_LEFT) . str_pad($m, 2, '0', STR_PAD_LEFT);
-                file_put_contents($reportFile, file_get_contents('https://www.ris.gov.tw/info-popudata/app/awFastDownload/file/' . $key . '-' . $ym . '.ods/' . $key . '/' . $ym . '/'));
-                if (filesize($reportFile) < 500) {
-                    unlink($reportFile);
+                $content = file_get_contents('https://www.ris.gov.tw/info-popudata/app/awFastDownload/file/' . $key . '-' . $ym . '.ods/' . $key . '/' . $ym . '/');
+                if (strlen($content) > 500) {
+                    file_put_contents($reportFile, $content);
                 }
             }
         }
