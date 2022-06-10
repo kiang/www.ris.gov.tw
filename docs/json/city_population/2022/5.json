@@ -1,0 +1,2946 @@
+[
+    {
+        "county": "新北市",
+        "city": "板橋區",
+        "households": 219457,
+        "population": 547993,
+        "male": 266181,
+        "female": 281812
+    },
+    {
+        "county": "新北市",
+        "city": "三重區",
+        "households": 155997,
+        "population": 378736,
+        "male": 185608,
+        "female": 193128
+    },
+    {
+        "county": "新北市",
+        "city": "中和區",
+        "households": 169369,
+        "population": 400861,
+        "male": 193517,
+        "female": 207344
+    },
+    {
+        "county": "新北市",
+        "city": "永和區",
+        "households": 90642,
+        "population": 211153,
+        "male": 100036,
+        "female": 111117
+    },
+    {
+        "county": "新北市",
+        "city": "新莊區",
+        "households": 162796,
+        "population": 418289,
+        "male": 203472,
+        "female": 214817
+    },
+    {
+        "county": "新北市",
+        "city": "新店區",
+        "households": 130129,
+        "population": 294966,
+        "male": 141458,
+        "female": 153508
+    },
+    {
+        "county": "新北市",
+        "city": "樹林區",
+        "households": 67658,
+        "population": 180044,
+        "male": 89637,
+        "female": 90407
+    },
+    {
+        "county": "新北市",
+        "city": "鶯歌區",
+        "households": 32913,
+        "population": 87920,
+        "male": 44016,
+        "female": 43904
+    },
+    {
+        "county": "新北市",
+        "city": "三峽區",
+        "households": 44764,
+        "population": 115185,
+        "male": 57532,
+        "female": 57653
+    },
+    {
+        "county": "新北市",
+        "city": "淡水區",
+        "households": 85345,
+        "population": 184192,
+        "male": 88088,
+        "female": 96104
+    },
+    {
+        "county": "新北市",
+        "city": "汐止區",
+        "households": 92284,
+        "population": 204619,
+        "male": 99531,
+        "female": 105088
+    },
+    {
+        "county": "新北市",
+        "city": "瑞芳區",
+        "households": 16027,
+        "population": 38039,
+        "male": 19169,
+        "female": 18870
+    },
+    {
+        "county": "新北市",
+        "city": "土城區",
+        "households": 91107,
+        "population": 236198,
+        "male": 115952,
+        "female": 120246
+    },
+    {
+        "county": "新北市",
+        "city": "蘆洲區",
+        "households": 74056,
+        "population": 199964,
+        "male": 97814,
+        "female": 102150
+    },
+    {
+        "county": "新北市",
+        "city": "五股區",
+        "households": 36008,
+        "population": 90465,
+        "male": 45285,
+        "female": 45180
+    },
+    {
+        "county": "新北市",
+        "city": "泰山區",
+        "households": 28977,
+        "population": 76775,
+        "male": 37870,
+        "female": 38905
+    },
+    {
+        "county": "新北市",
+        "city": "林口區",
+        "households": 51077,
+        "population": 124639,
+        "male": 60517,
+        "female": 64122
+    },
+    {
+        "county": "新北市",
+        "city": "深坑區",
+        "households": 9831,
+        "population": 23427,
+        "male": 11696,
+        "female": 11731
+    },
+    {
+        "county": "新北市",
+        "city": "石碇區",
+        "households": 3367,
+        "population": 7370,
+        "male": 4022,
+        "female": 3348
+    },
+    {
+        "county": "新北市",
+        "city": "坪林區",
+        "households": 2565,
+        "population": 6586,
+        "male": 3574,
+        "female": 3012
+    },
+    {
+        "county": "新北市",
+        "city": "三芝區",
+        "households": 9590,
+        "population": 22160,
+        "male": 11371,
+        "female": 10789
+    },
+    {
+        "county": "新北市",
+        "city": "石門區",
+        "households": 4205,
+        "population": 11039,
+        "male": 5762,
+        "female": 5277
+    },
+    {
+        "county": "新北市",
+        "city": "八里區",
+        "households": 16337,
+        "population": 40203,
+        "male": 20042,
+        "female": 20161
+    },
+    {
+        "county": "新北市",
+        "city": "平溪區",
+        "households": 2202,
+        "population": 4301,
+        "male": 2407,
+        "female": 1894
+    },
+    {
+        "county": "新北市",
+        "city": "雙溪區",
+        "households": 3653,
+        "population": 8182,
+        "male": 4437,
+        "female": 3745
+    },
+    {
+        "county": "新北市",
+        "city": "貢寮區",
+        "households": 4303,
+        "population": 11392,
+        "male": 5817,
+        "female": 5575
+    },
+    {
+        "county": "新北市",
+        "city": "金山區",
+        "households": 7256,
+        "population": 20677,
+        "male": 10186,
+        "female": 10491
+    },
+    {
+        "county": "新北市",
+        "city": "萬里區",
+        "households": 7496,
+        "population": 21168,
+        "male": 10561,
+        "female": 10607
+    },
+    {
+        "county": "新北市",
+        "city": "烏來區",
+        "households": 1911,
+        "population": 6298,
+        "male": 3088,
+        "female": 3210
+    },
+    {
+        "county": "臺北市",
+        "city": "松山區",
+        "households": 78859,
+        "population": 188069,
+        "male": 87962,
+        "female": 100107
+    },
+    {
+        "county": "臺北市",
+        "city": "信義區",
+        "households": 86937,
+        "population": 202379,
+        "male": 96193,
+        "female": 106186
+    },
+    {
+        "county": "臺北市",
+        "city": "大安區",
+        "households": 118179,
+        "population": 285886,
+        "male": 133357,
+        "female": 152529
+    },
+    {
+        "county": "臺北市",
+        "city": "中山區",
+        "households": 98167,
+        "population": 209798,
+        "male": 97134,
+        "female": 112664
+    },
+    {
+        "county": "臺北市",
+        "city": "中正區",
+        "households": 64219,
+        "population": 146995,
+        "male": 69905,
+        "female": 77090
+    },
+    {
+        "county": "臺北市",
+        "city": "大同區",
+        "households": 51671,
+        "population": 118331,
+        "male": 57203,
+        "female": 61128
+    },
+    {
+        "county": "臺北市",
+        "city": "萬華區",
+        "households": 77942,
+        "population": 173088,
+        "male": 84531,
+        "female": 88557
+    },
+    {
+        "county": "臺北市",
+        "city": "文山區",
+        "households": 106322,
+        "population": 256311,
+        "male": 122373,
+        "female": 133938
+    },
+    {
+        "county": "臺北市",
+        "city": "南港區",
+        "households": 47500,
+        "population": 113660,
+        "male": 55298,
+        "female": 58362
+    },
+    {
+        "county": "臺北市",
+        "city": "內湖區",
+        "households": 109165,
+        "population": 271594,
+        "male": 129227,
+        "female": 142367
+    },
+    {
+        "county": "臺北市",
+        "city": "士林區",
+        "households": 106166,
+        "population": 263527,
+        "male": 127046,
+        "female": 136481
+    },
+    {
+        "county": "臺北市",
+        "city": "北投區",
+        "households": 97299,
+        "population": 240961,
+        "male": 115654,
+        "female": 125307
+    },
+    {
+        "county": "桃園市",
+        "city": "桃園區",
+        "households": 182717,
+        "population": 457557,
+        "male": 220580,
+        "female": 236977
+    },
+    {
+        "county": "桃園市",
+        "city": "中壢區",
+        "households": 164624,
+        "population": 420311,
+        "male": 205642,
+        "female": 214669
+    },
+    {
+        "county": "桃園市",
+        "city": "大溪區",
+        "households": 34483,
+        "population": 94222,
+        "male": 47862,
+        "female": 46360
+    },
+    {
+        "county": "桃園市",
+        "city": "楊梅區",
+        "households": 64706,
+        "population": 176413,
+        "male": 88308,
+        "female": 88105
+    },
+    {
+        "county": "桃園市",
+        "city": "蘆竹區",
+        "households": 61806,
+        "population": 165914,
+        "male": 82025,
+        "female": 83889
+    },
+    {
+        "county": "桃園市",
+        "city": "大園區",
+        "households": 32817,
+        "population": 86849,
+        "male": 44067,
+        "female": 42782
+    },
+    {
+        "county": "桃園市",
+        "city": "龜山區",
+        "households": 69885,
+        "population": 168200,
+        "male": 83427,
+        "female": 84773
+    },
+    {
+        "county": "桃園市",
+        "city": "八德區",
+        "households": 78304,
+        "population": 209065,
+        "male": 103654,
+        "female": 105411
+    },
+    {
+        "county": "桃園市",
+        "city": "龍潭區",
+        "households": 45114,
+        "population": 124029,
+        "male": 61702,
+        "female": 62327
+    },
+    {
+        "county": "桃園市",
+        "city": "平鎮區",
+        "households": 82552,
+        "population": 227047,
+        "male": 112240,
+        "female": 114807
+    },
+    {
+        "county": "桃園市",
+        "city": "新屋區",
+        "households": 17615,
+        "population": 49046,
+        "male": 25985,
+        "female": 23061
+    },
+    {
+        "county": "桃園市",
+        "city": "觀音區",
+        "households": 26372,
+        "population": 71338,
+        "male": 36894,
+        "female": 34444
+    },
+    {
+        "county": "桃園市",
+        "city": "復興區",
+        "households": 3922,
+        "population": 12774,
+        "male": 6815,
+        "female": 5959
+    },
+    {
+        "county": "臺中市",
+        "city": "中區",
+        "households": 7888,
+        "population": 17457,
+        "male": 8623,
+        "female": 8834
+    },
+    {
+        "county": "臺中市",
+        "city": "東區",
+        "households": 29344,
+        "population": 75196,
+        "male": 37150,
+        "female": 38046
+    },
+    {
+        "county": "臺中市",
+        "city": "南區",
+        "households": 50605,
+        "population": 125044,
+        "male": 59775,
+        "female": 65269
+    },
+    {
+        "county": "臺中市",
+        "city": "西區",
+        "households": 46207,
+        "population": 111812,
+        "male": 52869,
+        "female": 58943
+    },
+    {
+        "county": "臺中市",
+        "city": "北區",
+        "households": 60536,
+        "population": 142197,
+        "male": 67669,
+        "female": 74528
+    },
+    {
+        "county": "臺中市",
+        "city": "西屯區",
+        "households": 91423,
+        "population": 229469,
+        "male": 109634,
+        "female": 119835
+    },
+    {
+        "county": "臺中市",
+        "city": "南屯區",
+        "households": 68352,
+        "population": 175761,
+        "male": 83761,
+        "female": 92000
+    },
+    {
+        "county": "臺中市",
+        "city": "北屯區",
+        "households": 112089,
+        "population": 290371,
+        "male": 138301,
+        "female": 152070
+    },
+    {
+        "county": "臺中市",
+        "city": "豐原區",
+        "households": 55453,
+        "population": 163342,
+        "male": 80340,
+        "female": 83002
+    },
+    {
+        "county": "臺中市",
+        "city": "東勢區",
+        "households": 17462,
+        "population": 47928,
+        "male": 24491,
+        "female": 23437
+    },
+    {
+        "county": "臺中市",
+        "city": "大甲區",
+        "households": 24146,
+        "population": 74978,
+        "male": 37540,
+        "female": 37438
+    },
+    {
+        "county": "臺中市",
+        "city": "清水區",
+        "households": 30490,
+        "population": 88354,
+        "male": 45040,
+        "female": 43314
+    },
+    {
+        "county": "臺中市",
+        "city": "沙鹿區",
+        "households": 32309,
+        "population": 96190,
+        "male": 48319,
+        "female": 47871
+    },
+    {
+        "county": "臺中市",
+        "city": "梧棲區",
+        "households": 19672,
+        "population": 59476,
+        "male": 29796,
+        "female": 29680
+    },
+    {
+        "county": "臺中市",
+        "city": "后里區",
+        "households": 17022,
+        "population": 53678,
+        "male": 27076,
+        "female": 26602
+    },
+    {
+        "county": "臺中市",
+        "city": "神岡區",
+        "households": 20338,
+        "population": 64442,
+        "male": 32827,
+        "female": 31615
+    },
+    {
+        "county": "臺中市",
+        "city": "潭子區",
+        "households": 38112,
+        "population": 108596,
+        "male": 53431,
+        "female": 55165
+    },
+    {
+        "county": "臺中市",
+        "city": "大雅區",
+        "households": 31013,
+        "population": 95159,
+        "male": 47237,
+        "female": 47922
+    },
+    {
+        "county": "臺中市",
+        "city": "新社區",
+        "households": 7805,
+        "population": 23435,
+        "male": 12088,
+        "female": 11347
+    },
+    {
+        "county": "臺中市",
+        "city": "石岡區",
+        "households": 4939,
+        "population": 14286,
+        "male": 7358,
+        "female": 6928
+    },
+    {
+        "county": "臺中市",
+        "city": "外埔區",
+        "households": 10002,
+        "population": 31336,
+        "male": 15953,
+        "female": 15383
+    },
+    {
+        "county": "臺中市",
+        "city": "大安區",
+        "households": 5633,
+        "population": 18302,
+        "male": 9662,
+        "female": 8640
+    },
+    {
+        "county": "臺中市",
+        "city": "烏日區",
+        "households": 27762,
+        "population": 77384,
+        "male": 38621,
+        "female": 38763
+    },
+    {
+        "county": "臺中市",
+        "city": "大肚區",
+        "households": 18683,
+        "population": 56099,
+        "male": 28536,
+        "female": 27563
+    },
+    {
+        "county": "臺中市",
+        "city": "龍井區",
+        "households": 24757,
+        "population": 77607,
+        "male": 38943,
+        "female": 38664
+    },
+    {
+        "county": "臺中市",
+        "city": "霧峰區",
+        "households": 21132,
+        "population": 64178,
+        "male": 32427,
+        "female": 31751
+    },
+    {
+        "county": "臺中市",
+        "city": "太平區",
+        "households": 69563,
+        "population": 195136,
+        "male": 96253,
+        "female": 98883
+    },
+    {
+        "county": "臺中市",
+        "city": "大里區",
+        "households": 73780,
+        "population": 211176,
+        "male": 103144,
+        "female": 108032
+    },
+    {
+        "county": "臺中市",
+        "city": "和平區",
+        "households": 4687,
+        "population": 10923,
+        "male": 5834,
+        "female": 5089
+    },
+    {
+        "county": "臺南市",
+        "city": "新營區",
+        "households": 29671,
+        "population": 75014,
+        "male": 36941,
+        "female": 38073
+    },
+    {
+        "county": "臺南市",
+        "city": "鹽水區",
+        "households": 10196,
+        "population": 24566,
+        "male": 12786,
+        "female": 11780
+    },
+    {
+        "county": "臺南市",
+        "city": "白河區",
+        "households": 10664,
+        "population": 26481,
+        "male": 13807,
+        "female": 12674
+    },
+    {
+        "county": "臺南市",
+        "city": "柳營區",
+        "households": 8016,
+        "population": 20503,
+        "male": 10675,
+        "female": 9828
+    },
+    {
+        "county": "臺南市",
+        "city": "後壁區",
+        "households": 8736,
+        "population": 22108,
+        "male": 11417,
+        "female": 10691
+    },
+    {
+        "county": "臺南市",
+        "city": "東山區",
+        "households": 8156,
+        "population": 19560,
+        "male": 10440,
+        "female": 9120
+    },
+    {
+        "county": "臺南市",
+        "city": "麻豆區",
+        "households": 16176,
+        "population": 43071,
+        "male": 21837,
+        "female": 21234
+    },
+    {
+        "county": "臺南市",
+        "city": "下營區",
+        "households": 9355,
+        "population": 22825,
+        "male": 11806,
+        "female": 11019
+    },
+    {
+        "county": "臺南市",
+        "city": "六甲區",
+        "households": 8036,
+        "population": 21392,
+        "male": 11075,
+        "female": 10317
+    },
+    {
+        "county": "臺南市",
+        "city": "官田區",
+        "households": 8152,
+        "population": 20874,
+        "male": 10634,
+        "female": 10240
+    },
+    {
+        "county": "臺南市",
+        "city": "大內區",
+        "households": 3676,
+        "population": 8948,
+        "male": 4822,
+        "female": 4126
+    },
+    {
+        "county": "臺南市",
+        "city": "佳里區",
+        "households": 21492,
+        "population": 58162,
+        "male": 28726,
+        "female": 29436
+    },
+    {
+        "county": "臺南市",
+        "city": "學甲區",
+        "households": 9811,
+        "population": 24857,
+        "male": 12740,
+        "female": 12117
+    },
+    {
+        "county": "臺南市",
+        "city": "西港區",
+        "households": 8717,
+        "population": 24611,
+        "male": 12421,
+        "female": 12190
+    },
+    {
+        "county": "臺南市",
+        "city": "七股區",
+        "households": 7890,
+        "population": 21606,
+        "male": 11159,
+        "female": 10447
+    },
+    {
+        "county": "臺南市",
+        "city": "將軍區",
+        "households": 7134,
+        "population": 18745,
+        "male": 9565,
+        "female": 9180
+    },
+    {
+        "county": "臺南市",
+        "city": "北門區",
+        "households": 4076,
+        "population": 10307,
+        "male": 5173,
+        "female": 5134
+    },
+    {
+        "county": "臺南市",
+        "city": "新化區",
+        "households": 14895,
+        "population": 42514,
+        "male": 21584,
+        "female": 20930
+    },
+    {
+        "county": "臺南市",
+        "city": "善化區",
+        "households": 19912,
+        "population": 51526,
+        "male": 25932,
+        "female": 25594
+    },
+    {
+        "county": "臺南市",
+        "city": "新市區",
+        "households": 13527,
+        "population": 37435,
+        "male": 18833,
+        "female": 18602
+    },
+    {
+        "county": "臺南市",
+        "city": "安定區",
+        "households": 10597,
+        "population": 29983,
+        "male": 15413,
+        "female": 14570
+    },
+    {
+        "county": "臺南市",
+        "city": "山上區",
+        "households": 2707,
+        "population": 6966,
+        "male": 3669,
+        "female": 3297
+    },
+    {
+        "county": "臺南市",
+        "city": "玉井區",
+        "households": 5155,
+        "population": 13236,
+        "male": 6845,
+        "female": 6391
+    },
+    {
+        "county": "臺南市",
+        "city": "楠西區",
+        "households": 3475,
+        "population": 8951,
+        "male": 4716,
+        "female": 4235
+    },
+    {
+        "county": "臺南市",
+        "city": "南化區",
+        "households": 2804,
+        "population": 8209,
+        "male": 4430,
+        "female": 3779
+    },
+    {
+        "county": "臺南市",
+        "city": "左鎮區",
+        "households": 1880,
+        "population": 4410,
+        "male": 2510,
+        "female": 1900
+    },
+    {
+        "county": "臺南市",
+        "city": "仁德區",
+        "households": 29477,
+        "population": 76370,
+        "male": 38403,
+        "female": 37967
+    },
+    {
+        "county": "臺南市",
+        "city": "歸仁區",
+        "households": 23661,
+        "population": 67924,
+        "male": 34260,
+        "female": 33664
+    },
+    {
+        "county": "臺南市",
+        "city": "關廟區",
+        "households": 11644,
+        "population": 33566,
+        "male": 17218,
+        "female": 16348
+    },
+    {
+        "county": "臺南市",
+        "city": "龍崎區",
+        "households": 1487,
+        "population": 3634,
+        "male": 1971,
+        "female": 1663
+    },
+    {
+        "county": "臺南市",
+        "city": "永康區",
+        "households": 88942,
+        "population": 233730,
+        "male": 114629,
+        "female": 119101
+    },
+    {
+        "county": "臺南市",
+        "city": "東區",
+        "households": 73006,
+        "population": 180409,
+        "male": 86127,
+        "female": 94282
+    },
+    {
+        "county": "臺南市",
+        "city": "南區",
+        "households": 47532,
+        "population": 121133,
+        "male": 59602,
+        "female": 61531
+    },
+    {
+        "county": "臺南市",
+        "city": "北區",
+        "households": 51647,
+        "population": 126446,
+        "male": 61214,
+        "female": 65232
+    },
+    {
+        "county": "臺南市",
+        "city": "安南區",
+        "households": 68413,
+        "population": 197165,
+        "male": 99075,
+        "female": 98090
+    },
+    {
+        "county": "臺南市",
+        "city": "安平區",
+        "households": 27670,
+        "population": 67263,
+        "male": 31841,
+        "female": 35422
+    },
+    {
+        "county": "臺南市",
+        "city": "中西區",
+        "households": 32584,
+        "population": 76983,
+        "male": 37163,
+        "female": 39820
+    },
+    {
+        "county": "高雄市",
+        "city": "鹽埕區",
+        "households": 10714,
+        "population": 22531,
+        "male": 11126,
+        "female": 11405
+    },
+    {
+        "county": "高雄市",
+        "city": "鼓山區",
+        "households": 60070,
+        "population": 138856,
+        "male": 66571,
+        "female": 72285
+    },
+    {
+        "county": "高雄市",
+        "city": "左營區",
+        "households": 81561,
+        "population": 194465,
+        "male": 92775,
+        "female": 101690
+    },
+    {
+        "county": "高雄市",
+        "city": "楠梓區",
+        "households": 76356,
+        "population": 189641,
+        "male": 92557,
+        "female": 97084
+    },
+    {
+        "county": "高雄市",
+        "city": "三民區",
+        "households": 139702,
+        "population": 330167,
+        "male": 158838,
+        "female": 171329
+    },
+    {
+        "county": "高雄市",
+        "city": "新興區",
+        "households": 23067,
+        "population": 48646,
+        "male": 23336,
+        "female": 25310
+    },
+    {
+        "county": "高雄市",
+        "city": "前金區",
+        "households": 13308,
+        "population": 26205,
+        "male": 12342,
+        "female": 13863
+    },
+    {
+        "county": "高雄市",
+        "city": "苓雅區",
+        "households": 72917,
+        "population": 162356,
+        "male": 77537,
+        "female": 84819
+    },
+    {
+        "county": "高雄市",
+        "city": "前鎮區",
+        "households": 79384,
+        "population": 180828,
+        "male": 88564,
+        "female": 92264
+    },
+    {
+        "county": "高雄市",
+        "city": "旗津區",
+        "households": 10861,
+        "population": 26956,
+        "male": 13822,
+        "female": 13134
+    },
+    {
+        "county": "高雄市",
+        "city": "小港區",
+        "households": 69501,
+        "population": 154926,
+        "male": 76564,
+        "female": 78362
+    },
+    {
+        "county": "高雄市",
+        "city": "鳳山區",
+        "households": 146108,
+        "population": 355729,
+        "male": 173361,
+        "female": 182368
+    },
+    {
+        "county": "高雄市",
+        "city": "林園區",
+        "households": 27037,
+        "population": 68524,
+        "male": 34391,
+        "female": 34133
+    },
+    {
+        "county": "高雄市",
+        "city": "大寮區",
+        "households": 43941,
+        "population": 111459,
+        "male": 56785,
+        "female": 54674
+    },
+    {
+        "county": "高雄市",
+        "city": "大樹區",
+        "households": 14030,
+        "population": 40895,
+        "male": 20918,
+        "female": 19977
+    },
+    {
+        "county": "高雄市",
+        "city": "大社區",
+        "households": 13438,
+        "population": 33760,
+        "male": 17114,
+        "female": 16646
+    },
+    {
+        "county": "高雄市",
+        "city": "仁武區",
+        "households": 38572,
+        "population": 94119,
+        "male": 47468,
+        "female": 46651
+    },
+    {
+        "county": "高雄市",
+        "city": "鳥松區",
+        "households": 19246,
+        "population": 43850,
+        "male": 22119,
+        "female": 21731
+    },
+    {
+        "county": "高雄市",
+        "city": "岡山區",
+        "households": 35621,
+        "population": 95128,
+        "male": 46994,
+        "female": 48134
+    },
+    {
+        "county": "高雄市",
+        "city": "橋頭區",
+        "households": 16021,
+        "population": 40103,
+        "male": 20083,
+        "female": 20020
+    },
+    {
+        "county": "高雄市",
+        "city": "燕巢區",
+        "households": 10839,
+        "population": 29033,
+        "male": 15241,
+        "female": 13792
+    },
+    {
+        "county": "高雄市",
+        "city": "田寮區",
+        "households": 3082,
+        "population": 6745,
+        "male": 3727,
+        "female": 3018
+    },
+    {
+        "county": "高雄市",
+        "city": "阿蓮區",
+        "households": 9492,
+        "population": 27786,
+        "male": 13982,
+        "female": 13804
+    },
+    {
+        "county": "高雄市",
+        "city": "路竹區",
+        "households": 17420,
+        "population": 50836,
+        "male": 25738,
+        "female": 25098
+    },
+    {
+        "county": "高雄市",
+        "city": "湖內區",
+        "households": 11249,
+        "population": 29486,
+        "male": 14984,
+        "female": 14502
+    },
+    {
+        "county": "高雄市",
+        "city": "茄萣區",
+        "households": 10716,
+        "population": 29620,
+        "male": 15134,
+        "female": 14486
+    },
+    {
+        "county": "高雄市",
+        "city": "永安區",
+        "households": 5797,
+        "population": 13669,
+        "male": 6816,
+        "female": 6853
+    },
+    {
+        "county": "高雄市",
+        "city": "彌陀區",
+        "households": 6822,
+        "population": 18529,
+        "male": 9459,
+        "female": 9070
+    },
+    {
+        "county": "高雄市",
+        "city": "梓官區",
+        "households": 13000,
+        "population": 34910,
+        "male": 17917,
+        "female": 16993
+    },
+    {
+        "county": "高雄市",
+        "city": "旗山區",
+        "households": 13691,
+        "population": 34863,
+        "male": 17916,
+        "female": 16947
+    },
+    {
+        "county": "高雄市",
+        "city": "美濃區",
+        "households": 14988,
+        "population": 37608,
+        "male": 19808,
+        "female": 17800
+    },
+    {
+        "county": "高雄市",
+        "city": "六龜區",
+        "households": 5432,
+        "population": 12024,
+        "male": 6468,
+        "female": 5556
+    },
+    {
+        "county": "高雄市",
+        "city": "甲仙區",
+        "households": 2287,
+        "population": 5724,
+        "male": 3017,
+        "female": 2707
+    },
+    {
+        "county": "高雄市",
+        "city": "杉林區",
+        "households": 4737,
+        "population": 11184,
+        "male": 6107,
+        "female": 5077
+    },
+    {
+        "county": "高雄市",
+        "city": "內門區",
+        "households": 5123,
+        "population": 13657,
+        "male": 7394,
+        "female": 6263
+    },
+    {
+        "county": "高雄市",
+        "city": "茂林區",
+        "households": 625,
+        "population": 1906,
+        "male": 951,
+        "female": 955
+    },
+    {
+        "county": "高雄市",
+        "city": "桃源區",
+        "households": 1370,
+        "population": 4244,
+        "male": 2215,
+        "female": 2029
+    },
+    {
+        "county": "高雄市",
+        "city": "那瑪夏區",
+        "households": 866,
+        "population": 3166,
+        "male": 1627,
+        "female": 1539
+    },
+    {
+        "county": "宜蘭縣",
+        "city": "宜蘭市",
+        "households": 37516,
+        "population": 94557,
+        "male": 46022,
+        "female": 48535
+    },
+    {
+        "county": "宜蘭縣",
+        "city": "羅東鎮",
+        "households": 26764,
+        "population": 70243,
+        "male": 33119,
+        "female": 37124
+    },
+    {
+        "county": "宜蘭縣",
+        "city": "蘇澳鎮",
+        "households": 14436,
+        "population": 38053,
+        "male": 19327,
+        "female": 18726
+    },
+    {
+        "county": "宜蘭縣",
+        "city": "頭城鎮",
+        "households": 10538,
+        "population": 28465,
+        "male": 14650,
+        "female": 13815
+    },
+    {
+        "county": "宜蘭縣",
+        "city": "礁溪鄉",
+        "households": 14545,
+        "population": 34852,
+        "male": 18034,
+        "female": 16818
+    },
+    {
+        "county": "宜蘭縣",
+        "city": "壯圍鄉",
+        "households": 9338,
+        "population": 24361,
+        "male": 12750,
+        "female": 11611
+    },
+    {
+        "county": "宜蘭縣",
+        "city": "員山鄉",
+        "households": 12167,
+        "population": 31878,
+        "male": 16805,
+        "female": 15073
+    },
+    {
+        "county": "宜蘭縣",
+        "city": "冬山鄉",
+        "households": 20157,
+        "population": 52746,
+        "male": 26775,
+        "female": 25971
+    },
+    {
+        "county": "宜蘭縣",
+        "city": "五結鄉",
+        "households": 16035,
+        "population": 40404,
+        "male": 20615,
+        "female": 19789
+    },
+    {
+        "county": "宜蘭縣",
+        "city": "三星鄉",
+        "households": 9056,
+        "population": 21223,
+        "male": 11457,
+        "female": 9766
+    },
+    {
+        "county": "宜蘭縣",
+        "city": "大同鄉",
+        "households": 1998,
+        "population": 6142,
+        "male": 3291,
+        "female": 2851
+    },
+    {
+        "county": "宜蘭縣",
+        "city": "南澳鄉",
+        "households": 2046,
+        "population": 6009,
+        "male": 3092,
+        "female": 2917
+    },
+    {
+        "county": "新竹縣",
+        "city": "竹北市",
+        "households": 77882,
+        "population": 206702,
+        "male": 102812,
+        "female": 103890
+    },
+    {
+        "county": "新竹縣",
+        "city": "關西鎮",
+        "households": 9385,
+        "population": 27313,
+        "male": 14661,
+        "female": 12652
+    },
+    {
+        "county": "新竹縣",
+        "city": "新埔鎮",
+        "households": 11667,
+        "population": 32863,
+        "male": 17551,
+        "female": 15312
+    },
+    {
+        "county": "新竹縣",
+        "city": "竹東鎮",
+        "households": 35862,
+        "population": 96235,
+        "male": 48535,
+        "female": 47700
+    },
+    {
+        "county": "新竹縣",
+        "city": "湖口鄉",
+        "households": 29740,
+        "population": 80154,
+        "male": 40498,
+        "female": 39656
+    },
+    {
+        "county": "新竹縣",
+        "city": "橫山鄉",
+        "households": 4377,
+        "population": 12221,
+        "male": 6637,
+        "female": 5584
+    },
+    {
+        "county": "新竹縣",
+        "city": "新豐鄉",
+        "households": 20236,
+        "population": 58216,
+        "male": 29810,
+        "female": 28406
+    },
+    {
+        "county": "新竹縣",
+        "city": "芎林鄉",
+        "households": 7075,
+        "population": 19864,
+        "male": 10502,
+        "female": 9362
+    },
+    {
+        "county": "新竹縣",
+        "city": "寶山鄉",
+        "households": 5903,
+        "population": 14334,
+        "male": 7787,
+        "female": 6547
+    },
+    {
+        "county": "新竹縣",
+        "city": "北埔鄉",
+        "households": 3094,
+        "population": 8714,
+        "male": 4776,
+        "female": 3938
+    },
+    {
+        "county": "新竹縣",
+        "city": "峨眉鄉",
+        "households": 2095,
+        "population": 5324,
+        "male": 2932,
+        "female": 2392
+    },
+    {
+        "county": "新竹縣",
+        "city": "尖石鄉",
+        "households": 2959,
+        "population": 9538,
+        "male": 4961,
+        "female": 4577
+    },
+    {
+        "county": "新竹縣",
+        "city": "五峰鄉",
+        "households": 1773,
+        "population": 4549,
+        "male": 2452,
+        "female": 2097
+    },
+    {
+        "county": "苗栗縣",
+        "city": "苗栗市",
+        "households": 32516,
+        "population": 86116,
+        "male": 42850,
+        "female": 43266
+    },
+    {
+        "county": "苗栗縣",
+        "city": "頭份市",
+        "households": 38299,
+        "population": 104962,
+        "male": 52884,
+        "female": 52078
+    },
+    {
+        "county": "苗栗縣",
+        "city": "苑裡鎮",
+        "households": 15219,
+        "population": 43973,
+        "male": 22968,
+        "female": 21005
+    },
+    {
+        "county": "苗栗縣",
+        "city": "通霄鎮",
+        "households": 11549,
+        "population": 32169,
+        "male": 17020,
+        "female": 15149
+    },
+    {
+        "county": "苗栗縣",
+        "city": "竹南鎮",
+        "households": 32110,
+        "population": 87319,
+        "male": 44034,
+        "female": 43285
+    },
+    {
+        "county": "苗栗縣",
+        "city": "後龍鎮",
+        "households": 12169,
+        "population": 34510,
+        "male": 18240,
+        "female": 16270
+    },
+    {
+        "county": "苗栗縣",
+        "city": "卓蘭鎮",
+        "households": 5859,
+        "population": 15683,
+        "male": 8200,
+        "female": 7483
+    },
+    {
+        "county": "苗栗縣",
+        "city": "大湖鄉",
+        "households": 5213,
+        "population": 13347,
+        "male": 7117,
+        "female": 6230
+    },
+    {
+        "county": "苗栗縣",
+        "city": "公館鄉",
+        "households": 10853,
+        "population": 31636,
+        "male": 16485,
+        "female": 15151
+    },
+    {
+        "county": "苗栗縣",
+        "city": "銅鑼鄉",
+        "households": 6105,
+        "population": 16750,
+        "male": 8877,
+        "female": 7873
+    },
+    {
+        "county": "苗栗縣",
+        "city": "南庄鄉",
+        "households": 3838,
+        "population": 9173,
+        "male": 5064,
+        "female": 4109
+    },
+    {
+        "county": "苗栗縣",
+        "city": "頭屋鄉",
+        "households": 3606,
+        "population": 10047,
+        "male": 5338,
+        "female": 4709
+    },
+    {
+        "county": "苗栗縣",
+        "city": "三義鄉",
+        "households": 5626,
+        "population": 15295,
+        "male": 8099,
+        "female": 7196
+    },
+    {
+        "county": "苗栗縣",
+        "city": "西湖鄉",
+        "households": 2620,
+        "population": 6516,
+        "male": 3657,
+        "female": 2859
+    },
+    {
+        "county": "苗栗縣",
+        "city": "造橋鄉",
+        "households": 4144,
+        "population": 11798,
+        "male": 6264,
+        "female": 5534
+    },
+    {
+        "county": "苗栗縣",
+        "city": "三灣鄉",
+        "households": 2330,
+        "population": 6225,
+        "male": 3393,
+        "female": 2832
+    },
+    {
+        "county": "苗栗縣",
+        "city": "獅潭鄉",
+        "households": 1721,
+        "population": 4162,
+        "male": 2301,
+        "female": 1861
+    },
+    {
+        "county": "苗栗縣",
+        "city": "泰安鄉",
+        "households": 1992,
+        "population": 5733,
+        "male": 3094,
+        "female": 2639
+    },
+    {
+        "county": "彰化縣",
+        "city": "彰化市",
+        "households": 78420,
+        "population": 226790,
+        "male": 111408,
+        "female": 115382
+    },
+    {
+        "county": "彰化縣",
+        "city": "員林市",
+        "households": 41315,
+        "population": 122106,
+        "male": 60326,
+        "female": 61780
+    },
+    {
+        "county": "彰化縣",
+        "city": "鹿港鎮",
+        "households": 25465,
+        "population": 85391,
+        "male": 43240,
+        "female": 42151
+    },
+    {
+        "county": "彰化縣",
+        "city": "和美鎮",
+        "households": 27718,
+        "population": 88992,
+        "male": 45158,
+        "female": 43834
+    },
+    {
+        "county": "彰化縣",
+        "city": "北斗鎮",
+        "households": 11237,
+        "population": 33192,
+        "male": 16620,
+        "female": 16572
+    },
+    {
+        "county": "彰化縣",
+        "city": "溪湖鎮",
+        "households": 16888,
+        "population": 54137,
+        "male": 27350,
+        "female": 26787
+    },
+    {
+        "county": "彰化縣",
+        "city": "田中鎮",
+        "households": 13479,
+        "population": 39819,
+        "male": 20397,
+        "female": 19422
+    },
+    {
+        "county": "彰化縣",
+        "city": "二林鎮",
+        "households": 15413,
+        "population": 48773,
+        "male": 24984,
+        "female": 23789
+    },
+    {
+        "county": "彰化縣",
+        "city": "線西鄉",
+        "households": 4587,
+        "population": 16345,
+        "male": 8448,
+        "female": 7897
+    },
+    {
+        "county": "彰化縣",
+        "city": "伸港鄉",
+        "households": 10813,
+        "population": 37838,
+        "male": 19068,
+        "female": 18770
+    },
+    {
+        "county": "彰化縣",
+        "city": "福興鄉",
+        "households": 13332,
+        "population": 45581,
+        "male": 23773,
+        "female": 21808
+    },
+    {
+        "county": "彰化縣",
+        "city": "秀水鄉",
+        "households": 11221,
+        "population": 38339,
+        "male": 19716,
+        "female": 18623
+    },
+    {
+        "county": "彰化縣",
+        "city": "花壇鄉",
+        "households": 14552,
+        "population": 44416,
+        "male": 22755,
+        "female": 21661
+    },
+    {
+        "county": "彰化縣",
+        "city": "芬園鄉",
+        "households": 6828,
+        "population": 22592,
+        "male": 11888,
+        "female": 10704
+    },
+    {
+        "county": "彰化縣",
+        "city": "大村鄉",
+        "households": 12133,
+        "population": 39965,
+        "male": 20279,
+        "female": 19686
+    },
+    {
+        "county": "彰化縣",
+        "city": "埔鹽鄉",
+        "households": 9367,
+        "population": 31477,
+        "male": 16507,
+        "female": 14970
+    },
+    {
+        "county": "彰化縣",
+        "city": "埔心鄉",
+        "households": 11134,
+        "population": 33874,
+        "male": 17390,
+        "female": 16484
+    },
+    {
+        "county": "彰化縣",
+        "city": "永靖鄉",
+        "households": 11200,
+        "population": 35688,
+        "male": 18487,
+        "female": 17201
+    },
+    {
+        "county": "彰化縣",
+        "city": "社頭鄉",
+        "households": 13344,
+        "population": 41777,
+        "male": 21422,
+        "female": 20355
+    },
+    {
+        "county": "彰化縣",
+        "city": "二水鄉",
+        "households": 5299,
+        "population": 14257,
+        "male": 7482,
+        "female": 6775
+    },
+    {
+        "county": "彰化縣",
+        "city": "田尾鄉",
+        "households": 8232,
+        "population": 26157,
+        "male": 13487,
+        "female": 12670
+    },
+    {
+        "county": "彰化縣",
+        "city": "埤頭鄉",
+        "households": 9202,
+        "population": 29430,
+        "male": 15174,
+        "female": 14256
+    },
+    {
+        "county": "彰化縣",
+        "city": "芳苑鄉",
+        "households": 10123,
+        "population": 31853,
+        "male": 16801,
+        "female": 15052
+    },
+    {
+        "county": "彰化縣",
+        "city": "大城鄉",
+        "households": 5144,
+        "population": 15615,
+        "male": 8421,
+        "female": 7194
+    },
+    {
+        "county": "彰化縣",
+        "city": "竹塘鄉",
+        "households": 4578,
+        "population": 14506,
+        "male": 7575,
+        "female": 6931
+    },
+    {
+        "county": "彰化縣",
+        "city": "溪州鄉",
+        "households": 9137,
+        "population": 28773,
+        "male": 14955,
+        "female": 13818
+    },
+    {
+        "county": "南投縣",
+        "city": "南投市",
+        "households": 35639,
+        "population": 97820,
+        "male": 48790,
+        "female": 49030
+    },
+    {
+        "county": "南投縣",
+        "city": "埔里鎮",
+        "households": 29051,
+        "population": 77587,
+        "male": 38413,
+        "female": 39174
+    },
+    {
+        "county": "南投縣",
+        "city": "草屯鎮",
+        "households": 34330,
+        "population": 96445,
+        "male": 48438,
+        "female": 48007
+    },
+    {
+        "county": "南投縣",
+        "city": "竹山鎮",
+        "households": 20270,
+        "population": 52174,
+        "male": 26630,
+        "female": 25544
+    },
+    {
+        "county": "南投縣",
+        "city": "集集鎮",
+        "households": 4218,
+        "population": 10122,
+        "male": 5314,
+        "female": 4808
+    },
+    {
+        "county": "南投縣",
+        "city": "名間鄉",
+        "households": 12614,
+        "population": 36473,
+        "male": 19236,
+        "female": 17237
+    },
+    {
+        "county": "南投縣",
+        "city": "鹿谷鄉",
+        "households": 7887,
+        "population": 16612,
+        "male": 8865,
+        "female": 7747
+    },
+    {
+        "county": "南投縣",
+        "city": "中寮鄉",
+        "households": 5556,
+        "population": 13956,
+        "male": 7646,
+        "female": 6310
+    },
+    {
+        "county": "南投縣",
+        "city": "魚池鄉",
+        "households": 5697,
+        "population": 15001,
+        "male": 7941,
+        "female": 7060
+    },
+    {
+        "county": "南投縣",
+        "city": "國姓鄉",
+        "households": 7137,
+        "population": 17451,
+        "male": 9432,
+        "female": 8019
+    },
+    {
+        "county": "南投縣",
+        "city": "水里鄉",
+        "households": 7056,
+        "population": 16548,
+        "male": 8683,
+        "female": 7865
+    },
+    {
+        "county": "南投縣",
+        "city": "信義鄉",
+        "households": 5268,
+        "population": 15712,
+        "male": 8391,
+        "female": 7321
+    },
+    {
+        "county": "南投縣",
+        "city": "仁愛鄉",
+        "households": 4869,
+        "population": 15769,
+        "male": 8100,
+        "female": 7669
+    },
+    {
+        "county": "雲林縣",
+        "city": "斗六市",
+        "households": 39913,
+        "population": 107594,
+        "male": 53228,
+        "female": 54366
+    },
+    {
+        "county": "雲林縣",
+        "city": "斗南鎮",
+        "households": 16248,
+        "population": 43300,
+        "male": 21936,
+        "female": 21364
+    },
+    {
+        "county": "雲林縣",
+        "city": "虎尾鎮",
+        "households": 26230,
+        "population": 70297,
+        "male": 35426,
+        "female": 34871
+    },
+    {
+        "county": "雲林縣",
+        "city": "西螺鎮",
+        "households": 15148,
+        "population": 44822,
+        "male": 22488,
+        "female": 22334
+    },
+    {
+        "county": "雲林縣",
+        "city": "土庫鎮",
+        "households": 9595,
+        "population": 27785,
+        "male": 14504,
+        "female": 13281
+    },
+    {
+        "county": "雲林縣",
+        "city": "北港鎮",
+        "households": 16026,
+        "population": 38100,
+        "male": 19681,
+        "female": 18419
+    },
+    {
+        "county": "雲林縣",
+        "city": "古坑鄉",
+        "households": 11340,
+        "population": 30293,
+        "male": 15917,
+        "female": 14376
+    },
+    {
+        "county": "雲林縣",
+        "city": "大埤鄉",
+        "households": 6676,
+        "population": 18317,
+        "male": 9719,
+        "female": 8598
+    },
+    {
+        "county": "雲林縣",
+        "city": "莿桐鄉",
+        "households": 9448,
+        "population": 27715,
+        "male": 14457,
+        "female": 13258
+    },
+    {
+        "county": "雲林縣",
+        "city": "林內鄉",
+        "households": 6053,
+        "population": 17147,
+        "male": 8973,
+        "female": 8174
+    },
+    {
+        "county": "雲林縣",
+        "city": "二崙鄉",
+        "households": 8952,
+        "population": 25409,
+        "male": 13583,
+        "female": 11826
+    },
+    {
+        "county": "雲林縣",
+        "city": "崙背鄉",
+        "households": 8645,
+        "population": 23338,
+        "male": 12313,
+        "female": 11025
+    },
+    {
+        "county": "雲林縣",
+        "city": "麥寮鄉",
+        "households": 15375,
+        "population": 48730,
+        "male": 24167,
+        "female": 24563
+    },
+    {
+        "county": "雲林縣",
+        "city": "東勢鄉",
+        "households": 5747,
+        "population": 13812,
+        "male": 7633,
+        "female": 6179
+    },
+    {
+        "county": "雲林縣",
+        "city": "褒忠鄉",
+        "households": 4442,
+        "population": 12234,
+        "male": 6557,
+        "female": 5677
+    },
+    {
+        "county": "雲林縣",
+        "city": "臺西鄉",
+        "households": 8476,
+        "population": 22365,
+        "male": 11962,
+        "female": 10403
+    },
+    {
+        "county": "雲林縣",
+        "city": "元長鄉",
+        "households": 9060,
+        "population": 23959,
+        "male": 13118,
+        "female": 10841
+    },
+    {
+        "county": "雲林縣",
+        "city": "四湖鄉",
+        "households": 8577,
+        "population": 21805,
+        "male": 11890,
+        "female": 9915
+    },
+    {
+        "county": "雲林縣",
+        "city": "口湖鄉",
+        "households": 9275,
+        "population": 25847,
+        "male": 13780,
+        "female": 12067
+    },
+    {
+        "county": "雲林縣",
+        "city": "水林鄉",
+        "households": 9544,
+        "population": 23556,
+        "male": 12880,
+        "female": 10676
+    },
+    {
+        "county": "嘉義縣",
+        "city": "太保市",
+        "households": 13925,
+        "population": 38696,
+        "male": 19653,
+        "female": 19043
+    },
+    {
+        "county": "嘉義縣",
+        "city": "朴子市",
+        "households": 15957,
+        "population": 41043,
+        "male": 20702,
+        "female": 20341
+    },
+    {
+        "county": "嘉義縣",
+        "city": "布袋鎮",
+        "households": 9730,
+        "population": 25267,
+        "male": 12851,
+        "female": 12416
+    },
+    {
+        "county": "嘉義縣",
+        "city": "大林鎮",
+        "households": 11505,
+        "population": 29937,
+        "male": 15180,
+        "female": 14757
+    },
+    {
+        "county": "嘉義縣",
+        "city": "民雄鄉",
+        "households": 25993,
+        "population": 70316,
+        "male": 35857,
+        "female": 34459
+    },
+    {
+        "county": "嘉義縣",
+        "city": "溪口鄉",
+        "households": 5257,
+        "population": 13658,
+        "male": 7295,
+        "female": 6363
+    },
+    {
+        "county": "嘉義縣",
+        "city": "新港鄉",
+        "households": 10857,
+        "population": 30543,
+        "male": 16139,
+        "female": 14404
+    },
+    {
+        "county": "嘉義縣",
+        "city": "六腳鄉",
+        "households": 8675,
+        "population": 21506,
+        "male": 11423,
+        "female": 10083
+    },
+    {
+        "county": "嘉義縣",
+        "city": "東石鄉",
+        "households": 9040,
+        "population": 23327,
+        "male": 12335,
+        "female": 10992
+    },
+    {
+        "county": "嘉義縣",
+        "city": "義竹鄉",
+        "households": 7151,
+        "population": 17104,
+        "male": 8935,
+        "female": 8169
+    },
+    {
+        "county": "嘉義縣",
+        "city": "鹿草鄉",
+        "households": 5751,
+        "population": 14579,
+        "male": 7848,
+        "female": 6731
+    },
+    {
+        "county": "嘉義縣",
+        "city": "水上鄉",
+        "households": 18609,
+        "population": 48164,
+        "male": 24913,
+        "female": 23251
+    },
+    {
+        "county": "嘉義縣",
+        "city": "中埔鄉",
+        "households": 16156,
+        "population": 43275,
+        "male": 22415,
+        "female": 20860
+    },
+    {
+        "county": "嘉義縣",
+        "city": "竹崎鄉",
+        "households": 11682,
+        "population": 33906,
+        "male": 18048,
+        "female": 15858
+    },
+    {
+        "county": "嘉義縣",
+        "city": "梅山鄉",
+        "households": 6728,
+        "population": 18164,
+        "male": 9661,
+        "female": 8503
+    },
+    {
+        "county": "嘉義縣",
+        "city": "番路鄉",
+        "households": 4239,
+        "population": 11029,
+        "male": 5918,
+        "female": 5111
+    },
+    {
+        "county": "嘉義縣",
+        "city": "大埔鄉",
+        "households": 1936,
+        "population": 4504,
+        "male": 2275,
+        "female": 2229
+    },
+    {
+        "county": "嘉義縣",
+        "city": "阿里山鄉",
+        "households": 1877,
+        "population": 5405,
+        "male": 2818,
+        "female": 2587
+    },
+    {
+        "county": "屏東縣",
+        "city": "屏東市",
+        "households": 75388,
+        "population": 194252,
+        "male": 95486,
+        "female": 98766
+    },
+    {
+        "county": "屏東縣",
+        "city": "潮州鎮",
+        "households": 20423,
+        "population": 53104,
+        "male": 26337,
+        "female": 26767
+    },
+    {
+        "county": "屏東縣",
+        "city": "東港鎮",
+        "households": 17319,
+        "population": 46064,
+        "male": 23240,
+        "female": 22824
+    },
+    {
+        "county": "屏東縣",
+        "city": "恆春鎮",
+        "households": 11933,
+        "population": 29908,
+        "male": 15299,
+        "female": 14609
+    },
+    {
+        "county": "屏東縣",
+        "city": "萬丹鄉",
+        "households": 15779,
+        "population": 49506,
+        "male": 25659,
+        "female": 23847
+    },
+    {
+        "county": "屏東縣",
+        "city": "長治鄉",
+        "households": 10555,
+        "population": 29202,
+        "male": 15122,
+        "female": 14080
+    },
+    {
+        "county": "屏東縣",
+        "city": "麟洛鄉",
+        "households": 3938,
+        "population": 10612,
+        "male": 5465,
+        "female": 5147
+    },
+    {
+        "county": "屏東縣",
+        "city": "九如鄉",
+        "households": 7393,
+        "population": 21677,
+        "male": 11109,
+        "female": 10568
+    },
+    {
+        "county": "屏東縣",
+        "city": "里港鄉",
+        "households": 8434,
+        "population": 25709,
+        "male": 13046,
+        "female": 12663
+    },
+    {
+        "county": "屏東縣",
+        "city": "鹽埔鄉",
+        "households": 7986,
+        "population": 24424,
+        "male": 12671,
+        "female": 11753
+    },
+    {
+        "county": "屏東縣",
+        "city": "高樹鄉",
+        "households": 9148,
+        "population": 23349,
+        "male": 12356,
+        "female": 10993
+    },
+    {
+        "county": "屏東縣",
+        "city": "萬巒鄉",
+        "households": 6615,
+        "population": 19701,
+        "male": 10269,
+        "female": 9432
+    },
+    {
+        "county": "屏東縣",
+        "city": "內埔鄉",
+        "households": 19286,
+        "population": 52434,
+        "male": 26956,
+        "female": 25478
+    },
+    {
+        "county": "屏東縣",
+        "city": "竹田鄉",
+        "households": 5679,
+        "population": 16161,
+        "male": 8601,
+        "female": 7560
+    },
+    {
+        "county": "屏東縣",
+        "city": "新埤鄉",
+        "households": 3503,
+        "population": 10191,
+        "male": 5354,
+        "female": 4837
+    },
+    {
+        "county": "屏東縣",
+        "city": "枋寮鄉",
+        "households": 8704,
+        "population": 23117,
+        "male": 12046,
+        "female": 11071
+    },
+    {
+        "county": "屏東縣",
+        "city": "新園鄉",
+        "households": 11935,
+        "population": 33179,
+        "male": 17204,
+        "female": 15975
+    },
+    {
+        "county": "屏東縣",
+        "city": "崁頂鄉",
+        "households": 4571,
+        "population": 15107,
+        "male": 7612,
+        "female": 7495
+    },
+    {
+        "county": "屏東縣",
+        "city": "林邊鄉",
+        "households": 6631,
+        "population": 16870,
+        "male": 8603,
+        "female": 8267
+    },
+    {
+        "county": "屏東縣",
+        "city": "南州鄉",
+        "households": 3801,
+        "population": 10078,
+        "male": 5139,
+        "female": 4939
+    },
+    {
+        "county": "屏東縣",
+        "city": "佳冬鄉",
+        "households": 6963,
+        "population": 18152,
+        "male": 9366,
+        "female": 8786
+    },
+    {
+        "county": "屏東縣",
+        "city": "琉球鄉",
+        "households": 4779,
+        "population": 12180,
+        "male": 6627,
+        "female": 5553
+    },
+    {
+        "county": "屏東縣",
+        "city": "車城鄉",
+        "households": 3543,
+        "population": 8269,
+        "male": 4422,
+        "female": 3847
+    },
+    {
+        "county": "屏東縣",
+        "city": "滿州鄉",
+        "households": 3043,
+        "population": 7530,
+        "male": 4073,
+        "female": 3457
+    },
+    {
+        "county": "屏東縣",
+        "city": "枋山鄉",
+        "households": 2037,
+        "population": 5171,
+        "male": 2711,
+        "female": 2460
+    },
+    {
+        "county": "屏東縣",
+        "city": "三地門鄉",
+        "households": 2402,
+        "population": 7764,
+        "male": 3909,
+        "female": 3855
+    },
+    {
+        "county": "屏東縣",
+        "city": "霧臺鄉",
+        "households": 1099,
+        "population": 3304,
+        "male": 1678,
+        "female": 1626
+    },
+    {
+        "county": "屏東縣",
+        "city": "瑪家鄉",
+        "households": 2114,
+        "population": 6745,
+        "male": 3408,
+        "female": 3337
+    },
+    {
+        "county": "屏東縣",
+        "city": "泰武鄉",
+        "households": 1437,
+        "population": 5356,
+        "male": 2770,
+        "female": 2586
+    },
+    {
+        "county": "屏東縣",
+        "city": "來義鄉",
+        "households": 2281,
+        "population": 7434,
+        "male": 3733,
+        "female": 3701
+    },
+    {
+        "county": "屏東縣",
+        "city": "春日鄉",
+        "households": 1465,
+        "population": 4905,
+        "male": 2485,
+        "female": 2420
+    },
+    {
+        "county": "屏東縣",
+        "city": "獅子鄉",
+        "households": 1627,
+        "population": 4893,
+        "male": 2517,
+        "female": 2376
+    },
+    {
+        "county": "屏東縣",
+        "city": "牡丹鄉",
+        "households": 2034,
+        "population": 4853,
+        "male": 2433,
+        "female": 2420
+    },
+    {
+        "county": "臺東縣",
+        "city": "臺東市",
+        "households": 40627,
+        "population": 103476,
+        "male": 51439,
+        "female": 52037
+    },
+    {
+        "county": "臺東縣",
+        "city": "成功鎮",
+        "households": 5344,
+        "population": 13259,
+        "male": 6961,
+        "female": 6298
+    },
+    {
+        "county": "臺東縣",
+        "city": "關山鎮",
+        "households": 3188,
+        "population": 8231,
+        "male": 4237,
+        "female": 3994
+    },
+    {
+        "county": "臺東縣",
+        "city": "卑南鄉",
+        "households": 6855,
+        "population": 16772,
+        "male": 8782,
+        "female": 7990
+    },
+    {
+        "county": "臺東縣",
+        "city": "大武鄉",
+        "households": 2474,
+        "population": 5636,
+        "male": 2933,
+        "female": 2703
+    },
+    {
+        "county": "臺東縣",
+        "city": "太麻里鄉",
+        "households": 4811,
+        "population": 10772,
+        "male": 5705,
+        "female": 5067
+    },
+    {
+        "county": "臺東縣",
+        "city": "東河鄉",
+        "households": 3687,
+        "population": 8099,
+        "male": 4437,
+        "female": 3662
+    },
+    {
+        "county": "臺東縣",
+        "city": "長濱鄉",
+        "households": 2898,
+        "population": 6790,
+        "male": 3812,
+        "female": 2978
+    },
+    {
+        "county": "臺東縣",
+        "city": "鹿野鄉",
+        "households": 3017,
+        "population": 7399,
+        "male": 3900,
+        "female": 3499
+    },
+    {
+        "county": "臺東縣",
+        "city": "池上鄉",
+        "households": 3156,
+        "population": 8010,
+        "male": 4130,
+        "female": 3880
+    },
+    {
+        "county": "臺東縣",
+        "city": "綠島鄉",
+        "households": 1208,
+        "population": 4229,
+        "male": 2268,
+        "female": 1961
+    },
+    {
+        "county": "臺東縣",
+        "city": "延平鄉",
+        "households": 1086,
+        "population": 3627,
+        "male": 1910,
+        "female": 1717
+    },
+    {
+        "county": "臺東縣",
+        "city": "海端鄉",
+        "households": 1094,
+        "population": 4192,
+        "male": 2211,
+        "female": 1981
+    },
+    {
+        "county": "臺東縣",
+        "city": "達仁鄉",
+        "households": 1453,
+        "population": 3470,
+        "male": 1880,
+        "female": 1590
+    },
+    {
+        "county": "臺東縣",
+        "city": "金峰鄉",
+        "households": 1197,
+        "population": 3715,
+        "male": 1870,
+        "female": 1845
+    },
+    {
+        "county": "臺東縣",
+        "city": "蘭嶼鄉",
+        "households": 1953,
+        "population": 5247,
+        "male": 2621,
+        "female": 2626
+    },
+    {
+        "county": "花蓮縣",
+        "city": "花蓮市",
+        "households": 41565,
+        "population": 99889,
+        "male": 47978,
+        "female": 51911
+    },
+    {
+        "county": "花蓮縣",
+        "city": "鳳林鎮",
+        "households": 4362,
+        "population": 10593,
+        "male": 5452,
+        "female": 5141
+    },
+    {
+        "county": "花蓮縣",
+        "city": "玉里鎮",
+        "households": 8858,
+        "population": 22637,
+        "male": 11957,
+        "female": 10680
+    },
+    {
+        "county": "花蓮縣",
+        "city": "新城鄉",
+        "households": 8236,
+        "population": 20242,
+        "male": 10321,
+        "female": 9921
+    },
+    {
+        "county": "花蓮縣",
+        "city": "吉安鄉",
+        "households": 33024,
+        "population": 82662,
+        "male": 41289,
+        "female": 41373
+    },
+    {
+        "county": "花蓮縣",
+        "city": "壽豐鄉",
+        "households": 7381,
+        "population": 17213,
+        "male": 9135,
+        "female": 8078
+    },
+    {
+        "county": "花蓮縣",
+        "city": "光復鄉",
+        "households": 4956,
+        "population": 12082,
+        "male": 6414,
+        "female": 5668
+    },
+    {
+        "county": "花蓮縣",
+        "city": "豐濱鄉",
+        "households": 1687,
+        "population": 4342,
+        "male": 2430,
+        "female": 1912
+    },
+    {
+        "county": "花蓮縣",
+        "city": "瑞穗鄉",
+        "households": 4775,
+        "population": 11041,
+        "male": 5897,
+        "female": 5144
+    },
+    {
+        "county": "花蓮縣",
+        "city": "富里鄉",
+        "households": 4058,
+        "population": 9749,
+        "male": 5301,
+        "female": 4448
+    },
+    {
+        "county": "花蓮縣",
+        "city": "秀林鄉",
+        "households": 5089,
+        "population": 16758,
+        "male": 8613,
+        "female": 8145
+    },
+    {
+        "county": "花蓮縣",
+        "city": "萬榮鄉",
+        "households": 2125,
+        "population": 6149,
+        "male": 3239,
+        "female": 2910
+    },
+    {
+        "county": "花蓮縣",
+        "city": "卓溪鄉",
+        "households": 1721,
+        "population": 5994,
+        "male": 3279,
+        "female": 2715
+    },
+    {
+        "county": "澎湖縣",
+        "city": "馬公市",
+        "households": 25895,
+        "population": 63164,
+        "male": 32116,
+        "female": 31048
+    },
+    {
+        "county": "澎湖縣",
+        "city": "湖西鄉",
+        "households": 6245,
+        "population": 15506,
+        "male": 8173,
+        "female": 7333
+    },
+    {
+        "county": "澎湖縣",
+        "city": "白沙鄉",
+        "households": 3601,
+        "population": 9947,
+        "male": 5106,
+        "female": 4841
+    },
+    {
+        "county": "澎湖縣",
+        "city": "西嶼鄉",
+        "households": 3100,
+        "population": 8326,
+        "male": 4284,
+        "female": 4042
+    },
+    {
+        "county": "澎湖縣",
+        "city": "望安鄉",
+        "households": 2039,
+        "population": 5441,
+        "male": 2934,
+        "female": 2507
+    },
+    {
+        "county": "澎湖縣",
+        "city": "七美鄉",
+        "households": 1487,
+        "population": 3854,
+        "male": 1975,
+        "female": 1879
+    },
+    {
+        "county": "基隆市",
+        "city": "中正區",
+        "households": 23053,
+        "population": 50449,
+        "male": 25612,
+        "female": 24837
+    },
+    {
+        "county": "基隆市",
+        "city": "七堵區",
+        "households": 22035,
+        "population": 53062,
+        "male": 26490,
+        "female": 26572
+    },
+    {
+        "county": "基隆市",
+        "city": "暖暖區",
+        "households": 16222,
+        "population": 38155,
+        "male": 19046,
+        "female": 19109
+    },
+    {
+        "county": "基隆市",
+        "city": "仁愛區",
+        "households": 18773,
+        "population": 41322,
+        "male": 20313,
+        "female": 21009
+    },
+    {
+        "county": "基隆市",
+        "city": "中山區",
+        "households": 19150,
+        "population": 45292,
+        "male": 22967,
+        "female": 22325
+    },
+    {
+        "county": "基隆市",
+        "city": "安樂區",
+        "households": 34019,
+        "population": 80346,
+        "male": 39791,
+        "female": 40555
+    },
+    {
+        "county": "基隆市",
+        "city": "信義區",
+        "households": 22816,
+        "population": 52694,
+        "male": 25877,
+        "female": 26817
+    },
+    {
+        "county": "新竹市",
+        "city": "東區",
+        "households": 85529,
+        "population": 220735,
+        "male": 108832,
+        "female": 111903
+    },
+    {
+        "county": "新竹市",
+        "city": "北區",
+        "households": 59894,
+        "population": 151348,
+        "male": 73789,
+        "female": 77559
+    },
+    {
+        "county": "新竹市",
+        "city": "香山區",
+        "households": 28874,
+        "population": 78264,
+        "male": 39714,
+        "female": 38550
+    },
+    {
+        "county": "嘉義市",
+        "city": "東區",
+        "households": 46115,
+        "population": 118103,
+        "male": 56353,
+        "female": 61750
+    },
+    {
+        "county": "嘉義市",
+        "city": "西區",
+        "households": 55661,
+        "population": 144880,
+        "male": 70428,
+        "female": 74452
+    },
+    {
+        "county": "金門縣",
+        "city": "金城鎮",
+        "households": 13224,
+        "population": 42244,
+        "male": 20934,
+        "female": 21310
+    },
+    {
+        "county": "金門縣",
+        "city": "金湖鎮",
+        "households": 9608,
+        "population": 30501,
+        "male": 15206,
+        "female": 15295
+    },
+    {
+        "county": "金門縣",
+        "city": "金沙鎮",
+        "households": 6545,
+        "population": 20616,
+        "male": 10084,
+        "female": 10532
+    },
+    {
+        "county": "金門縣",
+        "city": "金寧鄉",
+        "households": 9881,
+        "population": 33713,
+        "male": 16871,
+        "female": 16842
+    },
+    {
+        "county": "金門縣",
+        "city": "烈嶼鄉",
+        "households": 3251,
+        "population": 12578,
+        "male": 6247,
+        "female": 6331
+    },
+    {
+        "county": "金門縣",
+        "city": "烏坵鄉",
+        "households": 132,
+        "population": 671,
+        "male": 345,
+        "female": 326
+    },
+    {
+        "county": "連江縣",
+        "city": "南竿鄉",
+        "households": 2029,
+        "population": 7714,
+        "male": 4337,
+        "female": 3377
+    },
+    {
+        "county": "連江縣",
+        "city": "北竿鄉",
+        "households": 870,
+        "population": 3084,
+        "male": 1791,
+        "female": 1293
+    },
+    {
+        "county": "連江縣",
+        "city": "莒光鄉",
+        "households": 331,
+        "population": 1484,
+        "male": 938,
+        "female": 546
+    },
+    {
+        "county": "連江縣",
+        "city": "東引鄉",
+        "households": 358,
+        "population": 1500,
+        "male": 924,
+        "female": 576
+    }
+]
