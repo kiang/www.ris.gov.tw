@@ -10,11 +10,14 @@ $poolDeath = $poolBirth = [];
 
 for ($y = 2008; $y <= 2022; $y++) {
     for ($m = 1; $m <= 12; $m++) {
-        if ($y == 2022 && $m > 7) {
-            continue;
-        }
         $odsFile = "{$rawPath}/各縣市人口總增加出生死亡結婚離婚數及其比率/{$y}/{$m}.ods";
+        if (!isset($poolDeath[$y])) {
+            $poolDeath[$y] = [];
+            $poolBirth[$y] = [];
+        }
         if (!file_exists($odsFile)) {
+            $poolDeath[$y][$m] = '';
+            $poolBirth[$y][$m] = '';
             continue;
         }
         $spreadsheet = \PhpOffice\PhpSpreadsheet\IOFactory::load($odsFile);
@@ -26,9 +29,6 @@ for ($y = 2008; $y <= 2022; $y++) {
             if (intval($death) > $max) {
                 $max = $death;
             }
-        }
-        if (!isset($poolDeath[$y])) {
-            $poolDeath[$y] = [];
         }
         if (!isset($poolDeath[$y][$m])) {
             if ($m > 1) {
