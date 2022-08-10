@@ -10,7 +10,7 @@ $poolDeath = $poolBirth = [];
 
 for ($y = 2008; $y <= 2022; $y++) {
     for ($m = 1; $m <= 12; $m++) {
-        if ($y == 2022 && $m > 5) {
+        if ($y == 2022 && $m > 7) {
             continue;
         }
         $odsFile = "{$rawPath}/各縣市人口總增加出生死亡結婚離婚數及其比率/{$y}/{$m}.ods";
