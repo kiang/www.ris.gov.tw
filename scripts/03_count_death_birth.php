@@ -7,6 +7,7 @@ if (!file_exists($docsPath)) {
 }
 
 $poolDeath = $poolBirth = [];
+$pickDeath = $pickBirth = [];
 
 for ($y = 2008; $y <= 2022; $y++) {
     for ($m = 1; $m <= 12; $m++) {
@@ -14,10 +15,14 @@ for ($y = 2008; $y <= 2022; $y++) {
         if (!isset($poolDeath[$y])) {
             $poolDeath[$y] = [];
             $poolBirth[$y] = [];
+            $pickDeath[$y] = [];
+            $pickBirth[$y] = [];
         }
         if (!file_exists($odsFile)) {
             $poolDeath[$y][$m] = '';
             $poolBirth[$y][$m] = '';
+            $pickDeath[$y][$m] = '';
+            $pickBirth[$y][$m] = '';
             continue;
         }
         $spreadsheet = \PhpOffice\PhpSpreadsheet\IOFactory::load($odsFile);
@@ -31,6 +36,7 @@ for ($y = 2008; $y <= 2022; $y++) {
             }
         }
         if (!isset($poolDeath[$y][$m])) {
+            $pickDeath[$y][$m] = $max;
             if ($m > 1) {
                 $n = $m - 1;
                 $poolDeath[$y][$m] = $max + $poolDeath[$y][$n];
@@ -50,6 +56,7 @@ for ($y = 2008; $y <= 2022; $y++) {
             $poolBirth[$y] = [];
         }
         if (!isset($poolBirth[$y][$m])) {
+            $pickBirth[$y][$m] = $max;
             if ($m > 1) {
                 $n = $m - 1;
                 $poolBirth[$y][$m] = $max + $poolBirth[$y][$n];
@@ -60,14 +67,26 @@ for ($y = 2008; $y <= 2022; $y++) {
     }
 }
 
-$fh = fopen($docsPath . '/death.csv', 'w');
+$fh = fopen($docsPath . '/death_sum.csv', 'w');
 fputcsv($fh, array_merge(['year'], range(1, 12)));
 foreach ($poolDeath as $y => $lv1) {
     fputcsv($fh, array_merge([$y], $lv1));
 }
 
-$fh = fopen($docsPath . '/birth.csv', 'w');
+$fh = fopen($docsPath . '/birth_sum.csv', 'w');
 fputcsv($fh, array_merge(['year'], range(1, 12)));
 foreach ($poolBirth as $y => $lv1) {
+    fputcsv($fh, array_merge([$y], $lv1));
+}
+
+$fh = fopen($docsPath . '/death.csv', 'w');
+fputcsv($fh, array_merge(['year'], range(1, 12)));
+foreach ($pickDeath as $y => $lv1) {
+    fputcsv($fh, array_merge([$y], $lv1));
+}
+
+$fh = fopen($docsPath . '/birth.csv', 'w');
+fputcsv($fh, array_merge(['year'], range(1, 12)));
+foreach ($pickBirth as $y => $lv1) {
     fputcsv($fh, array_merge([$y], $lv1));
 }
