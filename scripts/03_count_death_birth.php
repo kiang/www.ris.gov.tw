@@ -5,10 +5,17 @@ $docsPath = dirname(__DIR__) . '/docs/csv/birth_death';
 if (!file_exists($docsPath)) {
     mkdir($docsPath, 0777, true);
 }
+$bdCityPath = dirname(__DIR__) . '/docs/csv/birth_death_city';
+if (!file_exists($bdCityPath)) {
+    mkdir($bdCityPath, 0777, true);
+}
 
 $poolDeath = $poolBirth = [];
 $pickDeath = $pickBirth = [];
 
+foreach (glob($bdCityPath . '/*.csv') as $csvFile) {
+    unlink($csvFile);
+}
 for ($y = 2008; $y <= 2022; $y++) {
     for ($m = 1; $m <= 12; $m++) {
         $odsFile = "{$rawPath}/各縣市人口總增加出生死亡結婚離婚數及其比率/{$y}/{$m}.ods";
@@ -33,6 +40,26 @@ for ($y = 2008; $y <= 2022; $y++) {
             $death = $sheet->getCell('K' . $i)->getCalculatedValue();
             if (intval($death) > $max) {
                 $max = $death;
+            }
+            if (!empty($death)) {
+                $city = $sheet->getCell('A' . $i)->getCalculatedValue();
+                $city = str_replace([' ', '巿'], ['', '市'], $city);
+                if (!empty($city) && $city !== '區域別') {
+                    $cityFile = $bdCityPath . '/' . $city . '.csv';
+                    if (!file_exists($cityFile)) {
+                        $oFh = fopen($cityFile, 'w');
+                        fputcsv($oFh, ['y/m', '月增加人口數', '月增加率', '折合年增加率', '自然增加人口數', '自然增加月增加率', '自然增加折合年增加率', '出生數', '月出生率', '折合年出生率', '死亡數', '月死亡率', '折合年死亡率']);
+                    } else {
+                        $oFh = fopen($cityFile, 'a');
+                    }
+                    $cityLine = [$y . '/' . $m];
+                    for ($j = 66; $j <= 77; $j++) {
+                        $c = chr($j);
+                        $cityLine[] = round($sheet->getCell($c . $i)->getCalculatedValue(), 2);
+                    }
+                    fputcsv($oFh, $cityLine);
+                    fclose($oFh);
+                }
             }
         }
         if (!isset($poolDeath[$y][$m])) {
