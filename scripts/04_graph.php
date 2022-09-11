@@ -3,9 +3,9 @@ require_once __DIR__ . '/vendor/autoload.php';
 
 $basePath = dirname(__DIR__);
 
-$docsPath = dirname(__DIR__) . '/docs/csv/birth_death';
+$docsPath = $basePath . '/docs/csv/birth_death';
 
-$pngPath = dirname(__DIR__) . '/docs/png/birth_death';
+$pngPath = $basePath . '/docs/png/birth_death';
 if (!file_exists($pngPath)) {
     mkdir($pngPath, 0777, true);
 }
@@ -58,6 +58,10 @@ $chart['datasets'][] = [
     'data' => array_values($pool),
 ];
 
-file_put_contents($pngPath . '/chart.json', json_encode($chart, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE));
+file_put_contents($basePath . '/tmp/chart.json', json_encode([
+    'title' => '出生死亡曲線圖',
+    'data' => $chart,
+    'pngFilePath' => $pngPath . '/chart.png',
+], JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE));
 
 exec("/usr/bin/node {$basePath}/scripts/rawCharts.js");

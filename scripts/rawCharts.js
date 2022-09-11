@@ -6,14 +6,15 @@ const height = 900; //px
 const canvasRenderService = new ChartJSNodeCanvas({ width, height });
 
 (async () => {
+    const birthDeath = require('../tmp/chart.json');
     const configuration = {
         type: 'line',
-        data: require('../docs/png/birth_death/chart.json'),
+        data: birthDeath.data,
         options: {
             plugins: {
                 title: {
                     display: true,
-                    text: '出生死亡曲線圖'
+                    text: birthDeath.title
                 }
             }
         },
@@ -36,5 +37,5 @@ const canvasRenderService = new ChartJSNodeCanvas({ width, height });
     const imageBuffer = await canvasRenderService.renderToBuffer(configuration);
 
     // Write image to file
-    fs.writeFileSync('docs/png/birth_death/chart.png', imageBuffer);
+    fs.writeFileSync(birthDeath.pngFilePath, imageBuffer);
 })();
