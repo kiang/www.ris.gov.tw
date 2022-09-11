@@ -55,7 +55,9 @@ for ($y = 2008; $y <= 2022; $y++) {
                     $cityLine = [$y . '/' . $m];
                     for ($j = 66; $j <= 77; $j++) {
                         $c = chr($j);
-                        $cityLine[] = round($sheet->getCell($c . $i)->getCalculatedValue(), 2);
+                        $v = $sheet->getCell($c . $i)->getCalculatedValue();
+                        $v = str_replace('－', '-', $v);
+                        $cityLine[] = round($v, 2);
                     }
                     fputcsv($oFh, $cityLine);
                     fclose($oFh);
