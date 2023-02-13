@@ -16,7 +16,8 @@ $pickDeath = $pickBirth = [];
 foreach (glob($bdCityPath . '/*.csv') as $csvFile) {
     unlink($csvFile);
 }
-for ($y = 2008; $y <= 2022; $y++) {
+$theYear = date('Y');
+for ($y = 2008; $y <= $theYear; $y++) {
     for ($m = 1; $m <= 12; $m++) {
         $odsFile = "{$rawPath}/各縣市人口總增加出生死亡結婚離婚數及其比率/{$y}/{$m}.ods";
         if (!isset($poolDeath[$y])) {
