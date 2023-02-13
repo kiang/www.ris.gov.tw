@@ -20,14 +20,46 @@ foreach (glob($docsPath . '/*.csv') as $csvFile) {
         'datasets' => [],
     ];
     $poolBirth = $poolDeath = [];
+
+    $baseFile = '';
+    switch ($p['filename']) {
+        case '臺南市':
+            $baseFile = $basePath . '/tmp/臺南縣.json';
+            break;
+        case '高雄市':
+            $baseFile = $basePath . '/tmp/高雄縣.json';
+            break;
+        case '臺中市':
+            $baseFile = $basePath . '/tmp/臺中縣.json';
+            break;
+        case '桃園市':
+            $baseFile = $basePath . '/tmp/桃園縣.json';
+            break;
+        case '新北市':
+            $baseFile = $basePath . '/tmp/臺北縣.json';
+            break;
+    }
+    if (!empty($baseFile) && file_exists($baseFile)) {
+        $base = json_decode(file_get_contents($baseFile), true);
+        if (isset($base[1])) {
+            $poolBirth = $base[0];
+            $poolDeath = $base[1];
+        }
+    }
+
     $fh = fopen($csvFile, 'r');
     $head = fgetcsv($fh, 2048);
     while ($line = fgetcsv($fh, 2048)) {
         $data = array_combine($head, $line);
         $parts = explode('/', $data['y/m']);
         $key = $parts[0] . '/' . str_pad($parts[1], 2, '0', STR_PAD_LEFT);
-        $poolBirth[$key] = $data['出生數'];
-        $poolDeath[$key] = $data['死亡數'];
+        if (isset($poolBirth[$key])) {
+            $poolBirth[$key] += $data['出生數'];
+            $poolDeath[$key] += $data['死亡數'];
+        } else {
+            $poolBirth[$key] = $data['出生數'];
+            $poolDeath[$key] = $data['死亡數'];
+        }
     }
     $chart['labels'] = array_keys($poolBirth);
     $chart['datasets'][] = [
@@ -44,6 +76,8 @@ foreach (glob($docsPath . '/*.csv') as $csvFile) {
         'borderWidth' => 5,
         'data' => array_values($poolDeath),
     ];
+
+    file_put_contents($basePath . '/tmp/' . $p['filename'] . '.json', json_encode([$poolBirth, $poolDeath]));
 
     file_put_contents($basePath . '/tmp/chart.json', json_encode([
         'title' => $p['filename'] . '出生死亡曲線圖',
