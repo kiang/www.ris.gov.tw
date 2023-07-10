@@ -85,5 +85,5 @@ foreach (glob($docsPath . '/*.csv') as $csvFile) {
         'pngFilePath' => $pngPath . '/' . $p['filename'] . '.png',
     ], JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE));
 
-    exec("/usr/bin/node {$basePath}/scripts/rawCharts.js");
+    exec("/snap/bin/node {$basePath}/scripts/rawCharts.js");
 }

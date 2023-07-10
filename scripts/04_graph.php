@@ -64,4 +64,4 @@ file_put_contents($basePath . '/tmp/chart.json', json_encode([
     'pngFilePath' => $pngPath . '/chart.png',
 ], JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE));
 
-exec("/usr/bin/node {$basePath}/scripts/rawCharts.js");
+exec("/snap/bin/node {$basePath}/scripts/rawCharts.js");
