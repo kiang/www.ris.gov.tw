@@ -17,6 +17,10 @@ foreach (glob($bdCityPath . '/*.csv') as $csvFile) {
     unlink($csvFile);
 }
 $theYear = date('Y');
+$strToReplace = [
+    '－' => '-',
+    ' ' => '',
+];
 for ($y = 2008; $y <= $theYear; $y++) {
     for ($m = 1; $m <= 12; $m++) {
         $odsFile = "{$rawPath}/各縣市人口總增加出生死亡結婚離婚數及其比率/{$y}/{$m}.ods";
@@ -57,8 +61,12 @@ for ($y = 2008; $y <= $theYear; $y++) {
                     for ($j = 66; $j <= 77; $j++) {
                         $c = chr($j);
                         $v = $sheet->getCell($c . $i)->getCalculatedValue();
-                        $v = str_replace('－', '-', $v);
-                        $cityLine[] = round($v, 2);
+                        $v = strtr($v, $strToReplace);
+                        if (is_numeric($v)) {
+                            $cityLine[] = round($v, 2);
+                        } else {
+                            $cityLine[] = 0;
+                        }
                     }
                     fputcsv($oFh, $cityLine);
                     fclose($oFh);
